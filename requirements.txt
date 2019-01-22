@@ -1,0 +1,3 @@
+python-daemon-3K==1.5.8
+bluepy==1.3.0
+timeout_decorator==0.4.1

@@ -31,10 +31,10 @@ python3 check_address.py <Mac address>
 python3 set_timer.py
 ```
 
-5.  If you want to kill existing timer
+5.  Kill existing task if you want
 
 ```bash
-# Check PID of existing timer
+# Check PID of existing task
 ps aux | grep set_timer.py | grep -v grep
 # kill
 kill <PID>
